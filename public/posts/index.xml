@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 产品经理之路</title>
+    <link>https://frankkirin.github.io/MyPMBlogs/posts/</link>
+    <description>Recent content in Posts on 产品经理之路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Sun, 17 Apr 2022 13:46:35 +0800</lastBuildDate><atom:link href="https://frankkirin.github.io/MyPMBlogs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_world</title>
+      <link>https://frankkirin.github.io/MyPMBlogs/posts/test/</link>
+      <pubDate>Sun, 17 Apr 2022 13:46:35 +0800</pubDate>
+      
+      <guid>https://frankkirin.github.io/MyPMBlogs/posts/test/</guid>
+      <description>Hello Word for PM </description>
+    </item>
+    
+  </channel>
+</rss>
