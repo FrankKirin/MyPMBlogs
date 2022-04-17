@@ -5,8 +5,13 @@ theme: 'hugo-PaperMod'
 paginate: 7
 
 params:
-    author: Frank Ye
+    author: frank ye
     defaultTheme: auto
+    keywords: [产品经理, 阅读, 生活, 博客]
+    DateFormat: "January 2, 2006"
+    disableThemeToggle: true
+
+    ShowReadingTime: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
 
