@@ -1,0 +1,11 @@
+baseURL: 'https://frankkirin.github.io/MyPMBlogs/'
+languageCode: 'en-us'
+title: '产品经理之路'
+theme: 'hugo-PaperMod'
+paginate: 7
+
+params:
+    author: Frank Ye
+    defaultTheme: auto
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
